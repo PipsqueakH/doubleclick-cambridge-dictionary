@@ -5,16 +5,4 @@
 ## demo
 
 
-
-
-
-<iframe height=630 width=500 src="dictionary-demo.gif">
-
-
-
-
-
-
-
-
-
+![image](https://github.com/PipsqueakH/doubleclick-cambridge-dictionary/blob/master/dictionary-demo.gif)
